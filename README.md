@@ -1,4 +1,4 @@
-<p align = 'center'>## Hello World! 👋 </p>
+<p align = 'center' style = bold > Hello World! 👋 </p>
 
 
 <!--
